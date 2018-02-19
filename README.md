@@ -28,31 +28,54 @@ wonderful and useful advantage is that online appointment scheduling is amazingl
 Online appointment system with the key features listed below:-
 # For patients:
  Register as an patient account
+
  Booking an appointment
+
  Cancelling an appointment
+
  See their booking status
+
  See doctor availability
+
  Search clinic and doctor
+
 # For Manager:
  Update status of appointments
+
  View appointment list
+
 # For Admin:
  Add doctor/clinic/manager in database
+
  Delete doctor/clinic/manager from database
+
  Show all doctors/clinic/manager
- Assign doctor to a clinic
- Assign Manager to a clinic
+
+ Assign doctor/manager to a clinic
+
+ Remoove doctor/manager from a clinic
+
 
 # Technologies used:
  HTML 5
+
  CSS
+
  PHP
+
  JavaScript
+
  AJAX
+
  SQL
+
  jQuery
+
 
 # Software Requirement:
  Php server like XAMPP, WAMPP etc.
- MySQL for database
- Web Browser supporting HTML5 : Google Chrome(recommended) / Firefox
+
+ MySQL for database.
+
+ Web Browser supporting HTML5 : Google Chrome(recommended) etc.
+
