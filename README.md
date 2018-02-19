@@ -86,7 +86,7 @@ Screenshots of certain pages from project are shown below. Place the cursor on i
 
 ![login.jpg](system%20screenshots/login.JPG "login Page")
 
-![book.jpg](system%20screenshots/cover.JPG "Book Page")
+![book.jpg](system%20screenshots/book.JPG "Book Page")
 
 ![changestatusmanager.jpg](system%20screenshots/changestatusmanager.JPG "Change Status Manager Side Page")
 
