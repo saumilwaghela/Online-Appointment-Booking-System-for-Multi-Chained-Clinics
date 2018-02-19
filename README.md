@@ -86,6 +86,10 @@ Screenshots of certain pages from project are shown below. Place the cursor on i
 
 ![login.jpg](system%20screenshots/login.JPG "login Page")
 
+![signup.jpg](system%20screenshots/signup.JPG "Signup Page")
+
+![search.jpg](system%20screenshots/search.JPG "Search Doctor Page")
+
 ![book.jpg](system%20screenshots/book.JPG "Book Page")
 
 ![changestatusmanager.jpg](system%20screenshots/changestatusmanager.JPG "Change Status Manager Side Page")
@@ -94,5 +98,6 @@ Screenshots of certain pages from project are shown below. Place the cursor on i
 
 ![adminlogin.jpg](system%20screenshots/adminlogin.JPG "Admin Login Page")
 
-![adminClinic.jpg](system%20screenshots/adminClinic.JPG "Admin Side Assigning Doctor To Clinic Page")
+![adminAssignClinicDoctor.jpg](system%20screenshots/adminAssignClinicDoctor.JPG "Admin Side Assigning Doctor To Clinic Page")
 
+![adminClinic.jpg](system%20screenshots/addClinic.JPG "Add Clinic Admin Side Page")
