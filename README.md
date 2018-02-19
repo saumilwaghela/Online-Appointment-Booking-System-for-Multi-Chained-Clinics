@@ -79,12 +79,20 @@ Online appointment system with the key features listed below:-
 
  Web Browser supporting HTML5 : Google Chrome(recommended) etc.
 
-# Screenshots:
+# Screenshots
+Screenshots of certain pages from project are shown below. Place the cursor on image for details..
+
 ![cover.jpg](system%20screenshots/cover.JPG "Cover Page")
+
 ![login.jpg](system%20screenshots/login.JPG "login Page")
+
 ![book.jpg](system%20screenshots/cover.JPG "Book Page")
+
 ![changestatusmanager.jpg](system%20screenshots/changestatusmanager.JPG "Change Status Manager Side Page")
+
 ![bookingrecord.jpg](system%20screenshots/bookingrecord.JPG "Booking History Patient Side Page")
+
 ![adminlogin.jpg](system%20screenshots/adminlogin.JPG "Admin Login Page")
+
 ![adminClinic.jpg](system%20screenshots/adminClinic.JPG "Admin Side Assigning Doctor To Clinic Page")
-!
+
