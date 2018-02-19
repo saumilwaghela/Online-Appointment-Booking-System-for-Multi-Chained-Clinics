@@ -80,4 +80,4 @@ Online appointment system with the key features listed below:-
  Web Browser supporting HTML5 : Google Chrome(recommended) etc.
 
 # Screenshots:
-![alt tag](system%20screenshots/cover.jpg "Cover Page")
+![cover.jpg](system%20screenshots/cover.JPG "Cover Page")
