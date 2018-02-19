@@ -100,4 +100,4 @@ Screenshots of certain pages from project are shown below. Place the cursor on i
 
 ![adminAssignClinicDoctor.jpg](system%20screenshots/adminAssignClinicDoctor.JPG "Admin Side Assigning Doctor To Clinic Page")
 
-![adminClinic.jpg](system%20screenshots/addClinic.JPG "Add Clinic Admin Side Page")
+![adminClinic.jpg](system%20screenshots/adminClinic.JPG "Add Clinic Admin Side Page")
