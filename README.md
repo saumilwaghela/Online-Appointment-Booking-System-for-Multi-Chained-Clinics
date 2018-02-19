@@ -79,3 +79,5 @@ Online appointment system with the key features listed below:-
 
  Web Browser supporting HTML5 : Google Chrome(recommended) etc.
 
+# Screenshots:
+![alt text](sytem screenshots/cover.jpg "Cover Page")
